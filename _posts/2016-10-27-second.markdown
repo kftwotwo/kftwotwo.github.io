@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My First Official Post"
+date:   2016-10-25 20:18:04
+categories: hello-world
+---
+## My First Official Post
+Today was a good day, I paired with a new person like we are supposed to everyday. So today we made a roman numeral webpage with javascript and HTML. So far I'm liking the class and I'm definitely liking the pair program because its teaching me to compromise with others and to pick their brain. For and example, they might have a better idea or better code to make it more "DRY-er" (Don't Repeat Yourself). Tomorrow I have a test hopefully I'll nail this one!
