@@ -1,0 +1,8 @@
+--
+layout: post
+title:  "My First Official Post"
+date:   2016-10-30 20:18:04
+categories: hello-world
+--
+## Well then...
+Well last Friday I had a hard time getting everything to play nice with JQuery and Javascript. So then I finally got everything to work nice with each other and I forgot one of the objectives but I fixed it this weekend and everything is good now. This weekend all day Saturday I practice and have a much better idea of what I am doing. Now I learned about how important it is because I could of saved so much time on this one problem but now I have it figured out. On Sunday first thing I did was visit my girlfriends and back to practicing coding and trying to push myself to be the top 5% of the class. So I can't wait for Javascript course to be done im acutlly hoping to try for the Ruby Rails course and I think I will succeed more in that course because I have someone to give me the run down and try to be the best I can.
