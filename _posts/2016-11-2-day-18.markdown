@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 18"
+date:   2016-11-2 20:18:04
+categories: tic-tac-toe
+---
+## Day 18
+Today we made tic-tac-toe with jquery, javascript, and today instead of using bootstrap we use materialize. We kept breaking the code because its still in beta but besides that we spend all day on doing just two players. After we got that done which took almost all day but we threw some ideas for the styles and computer AI. Tonight  I'm going to update my README.md and head to bed.
