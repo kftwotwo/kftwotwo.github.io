@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 20"
+date:   2016-11-2 20:18:04
+categories: Test
+---
+## Day 20
+My day so far is good I got my test today in like three hours so now I'm trying to find something to do and maybe work ahead. If you would like to see my test you can go in git hub and clone it and open it on your web browser I'll have a link in the bottom if this blog. It's funny I had real hard time last week but this week was kinda easy for me to understand. I think I know why there was a lot of logic to understand and lots of things to practice and remember in my head but I should of practice more after when I got home but I learned my lesson. Im gonna go off topic but I got my year book few weeks ago I think I had the best quote out of my whole class. Here is the quote `"if idots could fly, this place would be an airport"-Kevin Finley` sorry if that is offensive I come from Montana where stuff like that doesn't offend any one they would just laugh about it. It's a BIG change coming from Montana to Portland now I have to watch my mouth and what I say. Everyone knew who Kevin Finley was and I knew everyone but here no cares who you are and what you are doing in a small town everyone is watching you and spreading rumors and small town drama. Well that concludes this blog!
+
+Github: https://github.com/kftwotwo
+
+If you wish to edit my project,
+go into terminal (I'm using atom but you can use whatever you wish)
+```
+$ git clone https://github.com/kftwotwo/pizza-order-test.git
+$ cd pizza-order-test
+$ atom .
+```
