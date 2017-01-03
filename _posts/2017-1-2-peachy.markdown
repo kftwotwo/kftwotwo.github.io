@@ -5,5 +5,5 @@ date:   2017-1-2 20:18:04
 categories: objects
 ---
 
-## Getting better
+## So far so good..
 Alright I paired with a student who has some experience with Python and JavaScript and he is a good resource as a go to person. Now I have a better understanding of a gulpfile, in ruby terms how I understand it, it is like a app.rb because of the requiring gems but what I am learning packages and writing tasks is almost like a raking in ruby I know it is probably wrong or very poorly thought out but that's how I interpreted it. But I think I'm doing good for the most part I have to work on my terminology so I'm not confusing myself.
