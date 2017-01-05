@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Postman to the rescue!"
+title:  "Postman to the rescue"
 date:   2017-1-3 20:18:04
 categories: objects
 ---
