@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Throw Back Thursday"
+date:   2017-1-5 20:18:04
+categories: objects
+---
+
+Today my partner and I got the google api to display a map and tried to add drop pins of the location of the stolen bikes of the current location given. The new class that just started the Intro course are getting frustrated about the terminal commands and bootstrap to think about it, at that time I was too because I was used to a windows and didn't how to use a mac and I was a die hard for windows because of gaming. I was scrolling through my old projects on [Github](https://github.com/kftwotwo) and compare them to now is pretty embarrassing to me but that shows that I have made a lot of progress for 3 months but another 3 months of this I'll probably say the same thing.
