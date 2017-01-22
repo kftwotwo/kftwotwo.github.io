@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Survival game?"
+title:  "Survival game"
 date:   2017-1-14 20:18:04
 categories: objects
 ---
