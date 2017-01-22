@@ -5,5 +5,4 @@ date:   2017-1-16 20:18:04
 categories: objects
 ---
 
-## Angular 2
-So today I'm going through the lessons that epicodus provides and made a template because they recommended it. So far I'm not sure about typescript kinda like ruby with making custom classes and some logic and dynamic custom tags but I'm ready to go back to school tomorrow and put my nose to the grinding stone.
+Today I'm going through the lessons that Epicodus provides and made a template for future projects. So far I'm not sure about TypeScript it's kind of like ruby with making custom classes and dynamic custom tags. But it's not like JavaScript's syntax because I tired to do a method like to_string but in TypeScript it's Sting(then_something_in_here). At this point I like Ember more but that might change after this week. I'm ready to go back to school tomorrow and put my nose to the grinding stone.

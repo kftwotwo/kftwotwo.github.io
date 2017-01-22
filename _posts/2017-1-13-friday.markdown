@@ -5,5 +5,4 @@ date:   2017-1-13 20:18:04
 categories: objects
 ---
 
-## Friday the 13th
 Today the test went pretty good I made a message board and people can comment on them you can edit/delete the post and it would delete all comments in that post with ember. Not many people came to Epicodus because of the weather it snowed 10 inches. I'm used to it but not the people around me that don't know how to drive it's scary. People in Montana know to control their vehicle not over correcting their selves and people need to learn there is ice so you need more room between each car not riding on butt and slamming on your brakes because you will just slide just slow down.
