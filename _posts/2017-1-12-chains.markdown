@@ -8,7 +8,7 @@ categories: objects
 Hello everyone, we got some snow the pasted few days. I see a lot of people having trouble driving in the snow. Before I dive in I'm going to tell you a little about myself. I grew up in Montana where snow and ice are very normal. I worked at a welding shop where it was a requirement for me to get a [CDL (Commercial Driver's License) class A](http://www.cdldigest.com/cdl/) so I can deliver products to the mines in my area. I had to drive in all conditions so I've some experience.
 
 ***Today I am going to give you some helpful tips driving on snow/ice.***
-```
+
 * Give more room between each vehicle
 * Don't swerve or try to correct yourself if out of control
 * Do not slam on your brakes just slow down
@@ -17,12 +17,11 @@ Hello everyone, we got some snow the pasted few days. I see a lot of people havi
 * Don't floor it and spin out, remember nice and easy gets you there breezy
 * Be more aware of your surroundings
 * Do not use your high beams for a snow storm
-```
 
 Before you go out on the road you would want to do an inspection by you or a mechanic. First check your tires if they are bald replace them immediately. Always keep your windows brushed and clean because visibility is important. If you can't see you are creating a dangerous environment for you and others. Now you should pack a 'cold bag' in your vehicle for emergencies.
 
 ***In your cold bag:***
-```
+
 * flash light with extra batteries
 * road flares or reflective warning triangles
 * warm clothes/blankets
@@ -33,7 +32,7 @@ Before you go out on the road you would want to do an inspection by you or a mec
 * Collapsible shovel
 * cat litter or dirt
 * chains
-```
+
 Most of those items are standard, you can never over pack for being on the road. You might ask me what is the cat litter or dirt for?
 ![Jar of dirt](https://33.media.tumblr.com/b26f29353dbc05df5853d558f2af22c9/tumblr_n0lkvzjo4J1sl2j89o8_500.gif)
 
