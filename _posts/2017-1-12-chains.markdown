@@ -3,6 +3,7 @@ layout: post
 title:  "Tips on snowy roads"
 date:   2017-1-12 20:18:04
 categories: objects
+intro: Hello everyone, we got some snow the pasted few days. I see a lot of people having trouble driving in the snow. Before I dive in I'm going to tell you a little about myself.I grew up in Montana where snow and ice are very normal. I worked at a welding shop where it was a requirement for me to get a CDL (Commercial Driver's License) so I can deliver products to the mines in my area. I had to drive in all conditions so I've some experience.
 ---
 
 Hello everyone, we got some snow the pasted few days. I see a lot of people having trouble driving in the snow. Before I dive in I'm going to tell you a little about myself. I grew up in Montana where snow and ice are very normal. I worked at a welding shop where it was a requirement for me to get a [CDL (Commercial Driver's License) class A](http://www.cdldigest.com/cdl/) so I can deliver products to the mines in my area. I had to drive in all conditions so I've some experience.

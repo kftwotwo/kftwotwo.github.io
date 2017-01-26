@@ -1,5 +1,5 @@
 # Site settings
-title: My Blog
+title: KevBlog
 email: kf.two.two@gmail.com
 description: >
   My Personal Blog
@@ -10,3 +10,4 @@ github_username:  kftwotwo
 
 # Build settings
 markdown: kramdown
+paginate: 5

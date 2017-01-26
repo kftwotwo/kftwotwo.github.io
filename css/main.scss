@@ -60,6 +60,19 @@ $on-laptop:        800px;
 .blue {
   color:  #5383d3;
 }
+
+.button_black {
+  background-color: #292c2f;
+  border-radius: 10px 2px 10px 2px;
+
+  a {
+    color: white
+  }
+}
+
+.small {
+  font-size: 15px;
+}
 /*Footer*/
 
 #footer {

@@ -3,6 +3,8 @@ layout: post
 title:  "Better Doctor API"
 date:   2017-1-6 20:18:04
 categories: objects
+intro: So for the code review today, we are supposed to use the Better Doctor API to list doctors. With that list of doctors you can obtain information like where did they go to school, their office hours and so much information you can use in your app.
+
 ---
 
 So for the code review today, we are supposed to use the [Better Doctor API](https://developer.betterdoctor.com/) to list doctors. With that list of doctors you can obtain information like where did they go to school, their office hours and so much information you can use in your app.
