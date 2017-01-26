@@ -3,6 +3,9 @@ layout: post
 title:  "Friday the 13th"
 date:   2017-1-13 20:18:04
 categories: objects
+intro: Today the code review went pretty good, I made a message board where people can comment on the posts or edit/delete the post. When you delete a post it will delete all comments in that post.
 ---
 
-Today the test went pretty good I made a message board and people can comment on them you can edit/delete the post and it would delete all comments in that post with ember. Not many people came to Epicodus because of the weather it snowed 10 inches. I'm used to it but not the people around me that don't know how to drive it's scary. People in Montana know to control their vehicle not over correcting their selves and people need to learn there is ice so you need more room between each car not riding on butt and slamming on your brakes because you will just slide just slow down.
+Today not many people came to Epicodus because of the snow and ice. I'm used to snow but other people may not be here is a post about driving on snow/ice [Tips on snowy roads](http://localhost:4000/objects/2017/01/12/chains.html). Safety is always first!
+
+Today the code review went pretty good, I made a message board where people can comment on the posts or edit/delete the post with Ember. When you delete a post it will delete all comments in that post. I hope Angular is easier because it is hard to follow all the actions when you keep sending them up to the 'root'. They told us to keep all of our logic in a 'root' I don't know if that is correct so don't blame the messenger boy.
