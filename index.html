@@ -15,7 +15,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2><p class="">{{post.intro}}...<button class="button_black"><a  href="{{ post.url | prepend: site.baseurl }}">Read More</a></button></p>
+        <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h1><p class="">{{post.intro}}...<button class="button_black"><a  href="{{ post.url | prepend: site.baseurl }}">Read More</a></button></p>
       </li>
     {% endfor %}
   </ul>
