@@ -48,13 +48,28 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+// Head or nav
+.site-header {
+  background-color: #292c2f;
+}
 
+.white {
+  color: #ffffff !important;
+}
+
+.blue {
+  color:  #5383d3;
+}
 /*Footer*/
 
 #footer {
     clear: both;
-    position: relative;
+    position: absolute;
     z-index: 10;
+}
+
+article {
+  min-height: 300px;
 }
 
 .footer-distributed{
