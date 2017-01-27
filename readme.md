@@ -7,7 +7,7 @@
 ## Description
 
 This is my personal blog. I'm going to blog what I have learned through out Epicodus!
-Here is my Live [link](kftwotwo.github.io)!
+Here is my Live [link](https://kftwotwo.github.io)!
 
 ## Setup/Installation Requirements
 
