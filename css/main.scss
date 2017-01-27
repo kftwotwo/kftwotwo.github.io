@@ -248,7 +248,8 @@ article {
 // search
 
 .button_box2 {
-margin-left: 25%;
+float: right;
+
 }
 .cf:before, .cf:after{
 content:"";
@@ -258,15 +259,10 @@ display:table;
 clear:both;
 }
 .form-wrapper-2 {
-  width: 330px;
   padding: 7px;
-  background: #292c2f;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
 }
 .form-wrapper-2 input {
-  width: 210px;
+  width: 200px;
   height: 20px;
   padding: 10px 5px;
   float: left;
@@ -274,13 +270,6 @@ clear:both;
   border: 0;
   background: #eee;
   border-radius: 3px 0 0 3px;
-}
-.form-wrapper-2 input:focus {
-  outline: 0;
-  background: #fff;
-  -moz-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
-  -webkit-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
-  box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
 }
 .form-wrapper-2 button {
   overflow: visible;
@@ -295,6 +284,7 @@ clear:both;
   color: #fff;
   text-transform: uppercase;
   background: #5383d3;
+  border-radius: 0px 3px 3px 0px;
 }
 .form-wrapper-2 button:hover{
   background: rgb(0, 134, 227);
