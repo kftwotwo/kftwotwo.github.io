@@ -3,7 +3,7 @@ layout: post
 title:  "Internship"
 date:   2017-3-27 20:18:04
 categories: objects
-intro: "I nailed all of my interviews for the internships. I am glad that my brother prepared me for the interviews. I got really good feed-back I know this was from [lumen learning](http://lumenlearning.com/) "He did a great job explaining his project technically and what it solves. Also showed good organization skills in how he developed his project". But the rest of them I do not know because"
+intro: "I nailed all of my interviews for the internships. I am glad that my brother prepared me for the interviews. I got really good feed-back I know this was from lumen learning "He did a great job explaining his project technically and what it solves. Also showed good organization skills in how he developed his project". But the rest of them I do not know because"
 ---
 ![InboundRx](http://www.inboundrx.com/wp-content/themes/inboundrx/assets/images/InboundRx_Logo_Nav.png)
 
