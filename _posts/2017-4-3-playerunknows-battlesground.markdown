@@ -6,7 +6,7 @@ categories: objects
 intro: "I have been watching this game for a while now. It's suppost to destroy H1Z1 in every way. Note that I love H1Z1 but there are some bugs and glitches that could be worked on. I hope this up coming update will cover most of those bugs. They have a test server, where they test there work I know it sounds obvious. With this update that they are working on includes a new UI for the vehicles. So they"
 ---
 
-![Playerunknown's Battlegrounds]('https://d1wfiv6sf8d64f.cloudfront.net/static/pc/img/visual_main.jpg')
+![Playerunknown's Battlegrounds](https://d1wfiv6sf8d64f.cloudfront.net/static/pc/img/visual_main.jpg)
 
 I have been watching this game for a while now. It's suppost to destroy H1Z1 in every way. Note that I love H1Z1 but there are some bugs and glitches that could be worked on. I hope this up coming update will cover most of those bugs. They have a test server, where they test there work I know it sounds obvious. With this update that they are working on includes a new UI for the vehicles. So they have included a tachometer with a few minor changes. When vehicle gets damaged parts start failing like the turbo etc.
 
