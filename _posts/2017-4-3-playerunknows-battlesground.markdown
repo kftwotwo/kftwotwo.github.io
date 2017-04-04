@@ -3,7 +3,7 @@ layout: post
 title:  "Playerunknown's Battlegrounds vs H1Z1"
 date:   2017-3-27 20:18:04
 categories: objects
-intro: ""
+intro: "I have been watching this game for a while now. It's suppost to destroy H1Z1 in every way. Note that I love H1Z1 but there are some bugs and glitches that could be worked on. I hope this up coming update will cover most of those bugs. They have a test server, where they test there work I know it sounds obvious. With this update that they are working on includes a new UI for the vehicles. So they"
 ---
 
 ![Playerunknown's Battlegrounds]('https://d1wfiv6sf8d64f.cloudfront.net/static/pc/img/visual_main.jpg')
@@ -17,4 +17,4 @@ So [Playerunknown's Battlegrounds]('http://store.steampowered.com/app/578080/') 
 
 This game will put up to 100 players on a remote island. Which H1Z1 does not, so this prevents server hog which is an excessive load on a server which may cause performance issues for users on that server. Let's talk about the guns, so Playerunknown's Battlegrounds offers realistic gunplay mechanics 17 weapons and 35 attachments. With H1Z1 they offer 12 weapons(not including crafted items) and ZERO attachments. I guess they kind of make it up for crafting but the only weapons you can create is with arrows.
 
-So I am bashing H1Z1, I love the game but it needs some serous work. I am super excited for the new update coming out later this month. When I get a job and stable enough I am going to purchase the Playerunknown's Battlegrounds. 
+So I am bashing H1Z1, I love the game but it needs some serous work. I am super excited for the new update coming out later this month. When I get a job and stable enough I am going to purchase the Playerunknown's Battlegrounds.
